@@ -1,0 +1,14 @@
+{
+	"name": "emileriksen/wp-update-actions",
+	"license": "GPL-3.0",
+	"authors": [
+		{
+			"name": "Emil Kjær Eriksen",
+			"email": "hello@emileriksen.me"
+		}
+	],
+	"type": "library",
+	"autoload": {
+        "psr-4": { "WPUA\\": "src/" }
+    }
+}
